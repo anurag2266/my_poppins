@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015190935724",
+    "firebase_url": "https://mypoppins-916da-default-rtdb.firebaseio.com",
+    "project_id": "mypoppins-916da",
+    "storage_bucket": "mypoppins-916da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015190935724:android:7806ca6f1e925f6cdce709",
+        "android_client_info": {
+          "package_name": "com.mypoppins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015190935724-pim1mevofdiifo8l685n61trkb4pgafc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR2MTT8ZN326mZlWgA5qauwdbEAKTUyw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015190935724-pim1mevofdiifo8l685n61trkb4pgafc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015190935724-9264d23bq58klgf4jalvovmml3aqlo37.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mypoppins"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
